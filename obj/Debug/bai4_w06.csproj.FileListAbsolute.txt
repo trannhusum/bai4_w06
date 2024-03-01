@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\bai4_w06\bin\Debug\bai4_w06.exe.config
+D:\visual studio\BaiTapCodeGym\bai4_w06\bin\Debug\bai4_w06.exe
+D:\visual studio\BaiTapCodeGym\bai4_w06\bin\Debug\bai4_w06.pdb
+D:\visual studio\BaiTapCodeGym\bai4_w06\obj\Debug\bai4_w06.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\bai4_w06\obj\Debug\bai4_w06.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\bai4_w06\obj\Debug\bai4_w06.exe
+D:\visual studio\BaiTapCodeGym\bai4_w06\obj\Debug\bai4_w06.pdb
